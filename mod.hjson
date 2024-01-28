@@ -1,0 +1,8 @@
+name: "reconfix"
+displayName: "Reconstructor Fix"
+author: "_LEYN"
+description: "Fixes -in sprites of reconstructors to fit previous unit tier."
+subtitle: "Fixes reconstructor sprites."
+version: "1.0"
+minGameVersion: 145
+hidden: true
